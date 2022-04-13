@@ -1,0 +1,26 @@
+{
+  "name": "nft name",
+  "description": "nft discription",
+  "image": "ipfs://images-cid/1.png", 
+
+  "attributes": [ 
+   		{
+        "trait_type": "Background",
+        "value": "#FFFFFF"
+       },
+       {
+        "trait_type": "First Color",
+        "value": "Light Yellow"
+       },
+       {
+        "trait_type": "Second Color",
+        "value": "Dark Yellow"
+       },
+   		{
+   			"display_type": "date",
+   			"trait_type": "Created on",
+   			"value": 1649653800
+   		}
+   		
+   ]
+}
