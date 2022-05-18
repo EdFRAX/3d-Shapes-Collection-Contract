@@ -1,6 +1,4 @@
-# Welcome to EdFRAX 
-
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiihLXYNh-Pp4oS-xXkgpauXL5YAPyMV5opp94InpLkEzEL62_vYVXz3XcxJFOjGEQ1EPXYA7KQet4j_DhC6moKuS5oPRVFzWiuW4rJij0Ix_DCimfd77iEj1rpa6qXk1PqGayctPEwHCrnRg2Fhv0-Yo3z3BMTTGh6slyMSqHiZ7af4PiQWNgLC2TO/s1600/IMG_20211222_204224_163.jpg)
+# Welcome to 3d-Shapes-Collection-Contract
 
 All the code in these repos was created and explained by EdFRAX on the main YouTube channel.
 
