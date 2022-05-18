@@ -1,6 +1,6 @@
 # Welcome to 3d-Shapes-Collection-Contract
 
-All the code in these repos was created and explained by EdFRAX on the main YouTube channel.
+All the code in these repos was created by [HashLips](https://github.com/HashLips/hashlips_nft_contract) and edited by [EdFRAX](https://www.youtube.com/c/EdFRAX) on the main YouTube channel in Hindi.
 
 Instructions are given on EdFRAX YouTube Channel 👇 to use this repo for your already created collection without auto generative metadata.
 
