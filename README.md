@@ -4,7 +4,7 @@ All the code in these repos was created by [HashLips](https://github.com/HashLip
 
 Instructions are given on EdFRAX YouTube Channel 👇 to use this repo for your already created collection without auto generative metadata.
 
-[<img src='https://gist.githubusercontent.com/EdFRAX/8ed65e490ed3b16795b594bdf81ef898/raw/1caf701fb6cdde0897fe6af61c005b5d7d96d57a/edfrax_32*32.svg'/> YouTube Playlist for smart contract in Hindi](https://www.youtube.com/playlist?list=PLWoxgNgCgDZ3v7kZHD-BUp4iiqMZYsne2)
+[<img style="width:10px;height:10px;" src='https://gist.githubusercontent.com/EdFRAX/8ed65e490ed3b16795b594bdf81ef898/raw/1caf701fb6cdde0897fe6af61c005b5d7d96d57a/edfrax_32*32.svg'/> YouTube Playlist for smart contract in Hindi](https://www.youtube.com/playlist?list=PLWoxgNgCgDZ3v7kZHD-BUp4iiqMZYsne2)
 
 # 3D Shapes Collection (ONLY FOR TUTORIAL) 
 
